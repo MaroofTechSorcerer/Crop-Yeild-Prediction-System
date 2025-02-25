@@ -37,7 +37,7 @@ python main.py
 Feel free to open issues or submit PRs to improve the model!
 
 ## 📫 Contact
-[![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)](https://github.com/your-github)
+[![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)](https://github.com/MaroofTechSorcerer)
 
 ⭐ **Star this repo if you find it useful!** 🚀
 
